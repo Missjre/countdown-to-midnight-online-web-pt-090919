@@ -1,3 +1,6 @@
 def countdown
-  puts 
+  X
+  puts "#{} SECOND(S)!"
 end
+
+"HAPPY NEW YEAR!"
