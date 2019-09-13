@@ -6,3 +6,7 @@ end
 
 HAPPY NEW YEAR!
 
+def countdown_with_sleep
+    puts countdown_with_sleep("should take at least 5 seconds to execute")
+      runtime = Benchmark.measure { countdown_with_sleep(5) }
+    end
