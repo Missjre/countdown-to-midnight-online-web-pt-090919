@@ -1,5 +1,4 @@
 def countdown
-  X
   puts "#{} SECOND(S)!"
 end
 
